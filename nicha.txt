@@ -1,0 +1,4 @@
+<?php
+echo "Hello NICHA DOICHAROEN";
+ECHO "ID : 64104896";
+?>
